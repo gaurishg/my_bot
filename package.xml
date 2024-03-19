@@ -3,8 +3,8 @@
 <package format="3">
   <name>my_bot</name>
   <version>0.0.0</version>
-  <description>TODO: Package description</description>
-  <maintainer email="my_email@email.com">MY NAME</maintainer>
+  <description>Build a simple differential drive robot following the YouTube playlist of Articulated Robotics</description>
+  <maintainer email="my_email@email.com">Gaurish Gangwar</maintainer>
   <license>TODO: License declaration</license>
 
   <buildtool_depend>ament_cmake</buildtool_depend>
